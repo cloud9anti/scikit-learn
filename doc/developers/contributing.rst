@@ -19,33 +19,40 @@ adding new algorithms, and the best way to contribute and to help the project
 is to start working on known issues.
 See :ref:`new_contributors` to get started.
 
-.. topic:: **Our community, our values**
-
-    We are a community based on openness and friendly, didactic,
-    discussions.
-
-    We aspire to treat everybody equally, and value their contributions.  We
-    are particularly seeking people from underrepresented backgrounds in Open
-    Source Software and scikit-learn in particular to participate and
-    contribute their expertise and experience.
-
-    Decisions are made based on technical merit and consensus.
-
-    Code is not the only way to help the project. Reviewing pull
-    requests, answering questions to help others on mailing lists or
-    issues, organizing and teaching tutorials, working on the website,
-    improving the documentation, are all priceless contributions.
-
-    We abide by the principles of openness, respect, and consideration of
-    others of the Python Software Foundation:
-    https://www.python.org/psf/codeofconduct/
-
+There are many ways to contribute to scikit-learn, with the most common ones
+being contribution of code or documentation to the project. Improving the
+documentation is no less important than improving the library itself.  If you
+find a typo in the documentation, or have made improvements, do not hesitate to
+send an email to the mailing list or preferably submit a GitHub pull request.
+Full documentation can be found under the doc/ directory.
 
 In case you experience issues using this package, do not hesitate to submit a
 ticket to the
 `GitHub issue tracker
 <https://github.com/scikit-learn/scikit-learn/issues>`_. You are also
 welcome to post feature requests or pull requests.
+
+Our Code of Conduct
+==================
+
+Here is a summary of our code of conduct:
+
+* Be respectful of differing viewpoints and experiences. Harassment, insults, and threats are not tolerated.
+* Accept constructive criticism peacefully. When you disagree, please be courteous in raising your issues.
+* Do not publish others' private information, such as a physical or electronic address, without explicit permission.
+* Do not incite violence, including encouraging a person to commit suicide or to engage in self-harm.
+* Do not insult or hold others up for ridicule.
+   
+If you engage in behavior that violates this code of conduct, we may take any action we deem appropriate, 
+including warnings or expulsion from the community.
+
+We abide by the principles of openness, respect, and consideration of
+others of the Python Software Foundation. For a more detailed overview of our principles, 
+please visit:
+https://www.python.org/psf/codeofconduct/
+
+
+
 
 Ways to contribute
 ==================
